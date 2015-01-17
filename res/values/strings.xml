@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGH Racing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+    <string name="action_next_card">Dalej</string>
+    <string name="action_previous_card">Cofnij</string>
+    <string name="dycha_1">Witam w aplikacji AGH Racing</string>
+    <string name="dycha_2">Naciśnij guzik w prawym górnym rogu ekranu aby przejść dalej.</string>
+    <string name="dycha_3">Możesz pominać samouczek wciskając logo aplikacji.</string>
+    <string name="jopek_1">Aplikacja została wykonana na potrzeby koła naukowego "AGH Racing", zajmującym się konstrukcją bolidów konkurujących w międzynarodowym konkursie "Formuła Student"\n
+    Aplikacja, którą teraz obsługujesz służy do samodzielnego podglądu szczegółów technicznych bolidów AGH Racing.\n\n
+    Do projektu wykorzystano nadajniki bluetooth 4.0 (beacony) marki Estimote®.\nAby poznać informacje na temat bolidów nawiążesz komunikację z tymi nadajnikami za pomocą swojego smartphona. 
+    </string>
+    <string name="dama_1">Przed przystąpieniem do badania powinieneś znać kilka informacji:\n\nUżytkowanie z aplikacji polega na przesuwaniu smartphona w odpowienie rejony bolidu i odczytywaniu informacji na temat najbliższego elementu.\nJest to możliwe ponieważ twój smartphone będzie otrzymywać informację o przybliżonej odległości między Tobą a beacoami i będzie nawiązywał połączenie, z tym, który znajduje się najbliżej. 
+    </string> 
+    <string name="krol_1">Beacony zostały podzielone na 2 podstawowe kategorie:\n\n- Wizytówki\n- Jednostki\n\nWizytówki są przypisane do określonego bolidu, natomiast Jednostki przypisane zostały do specyficznych elementów bolidu. Nawiązanie połączenia z Wizytówką, pozwala na prace z beaconami Jednostami.\nTakie rozwiązanie zostało wprowadzone w celu uniknięcia niepotrzebnych komplikacji.\n\nTeraz przejdziesz do menu. Własciwa praca z aplikacją to pierwsza pozycja z menu. Na tym etapie Wybierz bolid, który chcesz zbadać i znajdź smartphonem jego wizytowke. Aby zbadać komponent Wystarczy że zbliżysz się do niego smartphonem. </string>
+    <string name="wybor_g1">Rozpocznij Wyszukiwanie Beaconów</string>
+    <string name="wybor_g2">Pokaż listę wszystkich dostępnych Beaconów</string>
+    <string name="wybor_g3">Informacje na temat Aplikacji</string>
+    <string name="wybor_g4">Powrót</string>
+    <string name="wybor_1">Wybierz opcję z menu</string>
+    <string name="wizytowka_1">Szukam beacona wizytówkę...</string>
+    <string name="wizytowka_2">Zbliż telefon do bolidu, który cię interesuję.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus. Donec venenatis, turpis vel hendrerit interdum, dui ligula ultricies purus, sed posuere libero dui id orci. Nam congue, pede vitae dapibus aliquet, elit magna vulputate arcu, vel tempus metus leo non est. Etiam sit amet lectus quis est congue mollis. Phasellus congue lacus eget neque. Phasellus ornare, ante vitae consectetuer consequat, purus sapien ultricies dolor, et mollis pede metus eget nisi. Praesent sodales velit quis augue. Cras suscipit, urna at aliquam rhoncus, urna quam viverra nisi, in interdum massa nibh nec erat.</string>
+    <string name="wizytowka_3">Znaleziono Boild sezonu 2013.</string>
+    <string name="wizytowka_4">Naciśnij na obrazek aby przejść dalej.</string>
+    <string name="skan_stop">Wstrzymaj skanowanie</string>
+    <string name="skan_wzon">Wznów skanowanie</string>
+    
+   
+
+</resources>

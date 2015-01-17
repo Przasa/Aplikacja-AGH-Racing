@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android1:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tlo"
+    android:padding="20dp" >
+
+    <LinearLayout
+        android1:layout_width="match_parent"
+        android1:layout_height="wrap_content"
+        android1:orientation="vertical" >
+
+        <TextView
+            android1:id="@+id/textView1"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:text="Aplikacja została wykonana na potrzeby koła naukowego AGH Racing w ramach dyplomowej pracy inżynierskiej."
+            android1:textAppearance="?android:attr/textAppearanceSmall"
+            android1:textColor="@color/tekstBiel" />
+
+        <TextView
+            android1:id="@+id/textView2"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginTop="20dp"
+            android1:text="Temat pracy inżynierskiej"
+            android1:textAppearance="?android:attr/textAppearanceMedium"
+            android1:textColor="@color/tekstBiel"
+            android1:textStyle="bold" />
+
+        <TextView
+            android1:id="@+id/textView3"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="70dp"
+            android1:layout_marginTop="10dp"
+            android1:text="projekt aplikacji na urządzenia mobilne z wykorzystaniem nadajników bluetooth 4.0"
+            android1:textColor="@color/tekstBiel" />
+
+        <TextView
+            android1:id="@+id/textView4"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginTop="20dp"
+            android1:text="Autor Aplikacji"
+            android1:textAppearance="?android:attr/textAppearanceMedium"
+            android1:textColor="@color/tekstBiel"
+            android1:textStyle="bold" />
+
+        <TextView
+            android1:id="@+id/textView5"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="70dp"
+            android1:layout_marginTop="10dp"
+            android1:text="Piotr Rząsa\nrzasapiotrek@gmail.com"
+            android1:textColor="@color/tekstBiel" />
+
+        <TextView
+            android1:id="@+id/textView6"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginTop="20dp"
+            android1:text="Promotor"
+            android1:textAppearance="?android:attr/textAppearanceMedium"
+            android1:textColor="@color/tekstBiel"
+            android1:textStyle="bold" />
+
+        <TextView
+            android1:id="@+id/textView7"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="70dp"
+            android1:layout_marginTop="10dp"
+            android1:text="dr inz. Daniel Prusak"
+            android1:textColor="@color/tekstBiel" />
+
+        <TextView
+            android1:id="@+id/textView8"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginTop="20dp"
+            android1:text="W projekcie wykorzastano nadajniki bluetooth (beacony) marki Estimote®. "
+            android1:textColor="@color/tekstBiel"
+            android1:textStyle="bold" />
+
+        <TextView
+            android1:id="@+id/textView9"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="70dp"
+            android1:layout_marginTop="10dp"
+            android1:text="Estimote Polska Sp z o.o.\nul. Krakusa 11\n30-535 Kraków, Poland\nEuropean Union"
+            android1:textColor="@color/tekstBiel" />
+    </LinearLayout>
+
+</ScrollView>

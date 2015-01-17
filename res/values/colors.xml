@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tlo">#333333</color>
+    <color name="tekstBiel">#FFFFF0</color>
+    <color name="tlo_jasnoszare">#808080</color>
+    <color name="fiolet">#AA66CC</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="startColor">#808080</color>
+    <color name="endColor">#696969</color>
+    <color name="darkRed">#8B0000</color>
+    
+</resources>
